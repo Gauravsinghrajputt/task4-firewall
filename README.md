@@ -28,7 +28,7 @@ Windows 10 – Windows Defender Firewall with Advanced Security
 5. Removed the rule afterward to restore the firewall to its original state.
 
 ## Purpose:
-This task demonstrates how to manually control network traffic using firewall rules. Port 23 (Telnet) is blocked because it’s an outdated and insecure protocol that should not be used on modern networks.
+This task demonstrates how to manually control network traffic using firewall rules. Port 23 (Telnet) is blocked because it’s an outdated and insecure protocol that should not be used on modern networks, and add the port 22 (ssh) for secure connection
 
 ## Outcome:
 Gained hands-on experience in firewall configuration and an understanding of how to filter traffic based on ports.
